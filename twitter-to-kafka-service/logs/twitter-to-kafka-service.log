@@ -1,0 +1,11 @@
+2023-07-11 21:49:53 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - Starting TwiteerTokafkaServiceApplication using Java 11.0.18 on Pawan with PID 19364 (D:\microservice_demo\microservices-demo\twitter-to-kafka-service\target\classes started by pawan in D:\microservice_demo\microservices-demo)
+2023-07-11 21:49:53 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-11 21:49:55 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - Started TwiteerTokafkaServiceApplication in 3.425 seconds (JVM running for 6.08)
+2023-07-11 21:49:55 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - App starts ...
+2023-07-11 21:49:55 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - [Java, Microservices, Spring, kafka, ElasticSearch]
+2023-07-11 21:54:33 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - Starting TwiteerTokafkaServiceApplication using Java 11.0.18 on Pawan with PID 6488 (D:\microservice_demo\microservices-demo\twitter-to-kafka-service\target\classes started by pawan in D:\microservice_demo\microservices-demo)
+2023-07-11 21:54:33 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-11 21:54:35 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - Started TwiteerTokafkaServiceApplication in 3.153 seconds (JVM running for 4.995)
+2023-07-11 21:54:35 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - App starts ...
+2023-07-11 21:54:35 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - [Java, Microservices, Spring, kafka, ElasticSearch]
+2023-07-11 21:54:35 [main] INFO  c.m.d.t.t.k.s.TwiteerTokafkaServiceApplication - welcome to the kafka !!
